@@ -1,8 +1,10 @@
 _This project was created in 3 days during CISSA CodeBrew 2024_
-# EcoLens
 
+
+# EcoLens
 EcoLens is an innovative mobile application designed to help users understand how to recycle different parts of objects by simply taking pictures. With EcoLens, recycling becomes more accessible and intuitive, promoting environmental sustainability in our daily lives.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/uGwVCAxqaLM)
 ## Features
 
 - **Object Recognition**: Use the camera to take pictures of objects, and EcoLens will identify the object and provide recycling instructions for its parts.
